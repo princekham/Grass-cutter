@@ -5,6 +5,7 @@ motor specs
 - 24V, 250W
 
 - MY1016Z3 (https://youtu.be/0F-4wi-5iN8?si=QoWN1DotskPYu-ol)
+- 300rpm
 
 motor driver
 - BTS7960
