@@ -14,4 +14,8 @@ motor driver
 Engine specs
 - GX 200
 
+- ### Examples
+- https://www.youtube.com/watch?v=YqSv44yYb04&ab_channel=ArunasGs
+- https://www.youtube.com/watch?v=ahqComauuLc&t=2s&ab_channel=diybytop
+
 
